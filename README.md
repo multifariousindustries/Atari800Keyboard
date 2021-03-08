@@ -2,6 +2,8 @@
 
 Despite using a variety of keyboard manufacturers and designs over its production, it seems that all Atari 800 computers have a keyboard that is destined to fail, if it hasn't already. Luckily, we live in a time where making completely custom keyboards is a hobby, so I figured I could take advantage of this to create a brand new, drop-in replacement keyboard using commonly available parts. 
 
+![Assembled PCB](/images/PopulatedPCB.jpg)
+
 ## Goals
 
 - Drop-in replacement with no modding of the Atari necessary
